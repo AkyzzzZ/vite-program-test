@@ -1,0 +1,15 @@
+div {
+	color: $theme-color;
+	height: 100px;
+	width: 200px;
+	text-decoration: dashed;
+	transition: transform 1s;
+	user-select: none;
+}
+
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
